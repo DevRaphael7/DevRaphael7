@@ -25,3 +25,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
